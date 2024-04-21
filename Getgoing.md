@@ -1,3 +1,3 @@
 #demo
-Some plain text or description
+Some plain text.
 Lets start
